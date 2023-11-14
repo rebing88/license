@@ -1,1 +1,15 @@
-1
+{
+  "range": "Sheet1!A1:B2",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "1",
+      "2"
+    ],
+    [
+      "4",
+      "5"
+    ]
+  ]
+}
+
